@@ -1,0 +1,7 @@
+vi /etc/apt/...
+:%s/kr/us/g
+:%s/us/kr/g
+vi /etc/apt/sources.list
+sudo apt update
+use vi sudo
+sudo vi /etc/apt/sources.list
